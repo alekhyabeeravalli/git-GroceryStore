@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceryStore", "GroceryStore\GroceryStore.csproj", "{2B31FC9C-741A-4055-A518-B848F48247A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsTest", "MsTest\MsTest.csproj", "{87417A17-586B-496B-9EBC-BC9D65B992E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B31FC9C-741A-4055-A518-B848F48247A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B31FC9C-741A-4055-A518-B848F48247A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B31FC9C-741A-4055-A518-B848F48247A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B31FC9C-741A-4055-A518-B848F48247A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87417A17-586B-496B-9EBC-BC9D65B992E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87417A17-586B-496B-9EBC-BC9D65B992E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87417A17-586B-496B-9EBC-BC9D65B992E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87417A17-586B-496B-9EBC-BC9D65B992E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367F684E-679C-4213-8DEE-E25D55F6D1B3}
+	EndGlobalSection
+EndGlobal

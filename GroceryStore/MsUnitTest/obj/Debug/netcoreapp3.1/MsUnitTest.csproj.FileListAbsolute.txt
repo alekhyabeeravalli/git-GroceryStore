@@ -1,0 +1,6 @@
+C:\Users\mindc1july29\source\repos\GroceryStore\MsUnitTest\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\mindc1july29\source\repos\GroceryStore\MsUnitTest\obj\Debug\netcoreapp3.1\MsUnitTest.csproj.AssemblyReference.cache
+C:\Users\mindc1july29\source\repos\GroceryStore\MsUnitTest\obj\Debug\netcoreapp3.1\MsUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1july29\source\repos\GroceryStore\MsUnitTest\obj\Debug\netcoreapp3.1\MsUnitTest.AssemblyInfoInputs.cache
+C:\Users\mindc1july29\source\repos\GroceryStore\MsUnitTest\obj\Debug\netcoreapp3.1\MsUnitTest.AssemblyInfo.cs
+C:\Users\mindc1july29\source\repos\GroceryStore\MsUnitTest\obj\Debug\netcoreapp3.1\MsUnitTest.csproj.CoreCompileInputs.cache
